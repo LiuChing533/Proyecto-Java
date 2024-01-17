@@ -1,0 +1,5 @@
+qwert,electrico,Bicicleta,5
+56789,electrico,Patines,6
+12345,normal,Bicicleta,10
+abcdef,electrico,Scooter,negro
+pat57,normal,Patines,4
